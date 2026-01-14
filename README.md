@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Tarek Alam Bhuiyan
 👋 Hi, I’m Tarek (2ManyFaces) — a CSE undergraduate passionate about AI, Machine Learning, and Data Science. I enjoy solving problems, building scalable solutions, and continuously learning new technologies. Currently focused on strengthening my skills in ML, Python, SQL, and full-stack development.
 
 
