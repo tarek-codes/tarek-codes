@@ -1,6 +1,8 @@
 # Tarek Alam Bhuiyan
 👋 Hi, I’m Tarek (2ManyFaces) — a CSE undergraduate passionate about AI, Machine Learning, and Data Science. I enjoy solving problems, building scalable solutions, and continuously learning new technologies. Currently focused on strengthening my skills in ML, Python, SQL, and full-stack development.
 
+## 🌐 Portfolio:
+https://tarek-dev.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarekalambhuiyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarekalambhuiyan@gmail.com) 
