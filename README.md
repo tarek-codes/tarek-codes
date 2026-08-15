@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/BSc.%20in%20CSE-BRAC%20University-DC2626?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-B91C1C?style=for-the-badge&labelColor=111827"/>
 
-<br/><br/>
 
 <a href="https://tarek-dev.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -25,11 +24,8 @@
 <img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=tarek-codes&style=for-the-badge&color=B91C1C&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/tarek-codes?style=for-the-badge&color=DC2626&labelColor=111827&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/tarek-codes?style=for-the-badge&color=EF4444&labelColor=111827&label=STARS"/>
 
 </div>
 
