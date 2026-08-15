@@ -1,33 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=180&section=header&text=TAREK%20ALAM%20BHUIYAN&fontSize=36&fontColor=FFFFFF&font=Nunito&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:B91C1C,100:EF4444&height=180&section=header&text=TAREK%20ALAM%20BHUIYAN&fontSize=36&fontColor=FFFFFF&font=Nunito&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Junior+AI+Engineer+%40+Betopia+Limited;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Software+Engineering+%7C+Full-Stack+Development;Building+Scalable+%26+Data-Driven+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=Junior+AI+Engineer+%40+Betopia+Limited;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Software+Engineering+%7C+Full-Stack+Development;Building+Scalable+%26+Data-Driven+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BSc.%20in%20CSE-BRAC%20University-4F46E5?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-6D28D9?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/BSc.%20in%20CSE-BRAC%20University-DC2626?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-B91C1C?style=for-the-badge&labelColor=111827"/>
 
 <br/><br/>
 
 <a href="https://tarek-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:tarekalambhuiyan@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tarek-codes&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/tarek-codes?style=for-the-badge&color=4F46E5&labelColor=111827&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/tarek-codes?style=for-the-badge&color=8B5CF6&labelColor=111827&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=tarek-codes&style=for-the-badge&color=B91C1C&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/tarek-codes?style=for-the-badge&color=DC2626&labelColor=111827&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/tarek-codes?style=for-the-badge&color=EF4444&labelColor=111827&label=STARS"/>
 
 </div>
 
@@ -70,7 +72,7 @@ I focus on building practical, reliable systems that combine **strong engineerin
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-6D28D9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-B91C1C?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
@@ -88,14 +90,14 @@ I focus on building practical, reliable systems that combine **strong engineerin
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-| -------------------- | ----------- | ----------- |
-| **Machine Learning** | Advanced | End-to-end ML pipelines, preprocessing, EDA, training & evaluation |
-| **Deep Learning** | Advanced | PyTorch, TensorFlow, Keras, CNNs & multimodal architectures |
-| **NLP** | Advanced | NLP classification, embeddings, BiLSTM, Skip-gram & text processing |
-| **Generative AI** | Advanced | RAG systems, LLM applications, retrieval pipelines |
-| **Computer Vision** | Advanced | Medical imaging and chest X-ray analysis |
-| **Data Science** | Advanced | NumPy, Pandas, visualization, feature analysis |
+| Domain               | Proficiency | Details                                                             |
+| -------------------- | ----------- | ------------------------------------------------------------------- |
+| **Machine Learning** | Advanced    | End-to-end ML pipelines, preprocessing, EDA, training & evaluation  |
+| **Deep Learning**    | Advanced    | PyTorch, TensorFlow, Keras, CNNs & multimodal architectures         |
+| **NLP**              | Advanced    | NLP classification, embeddings, BiLSTM, Skip-gram & text processing |
+| **Generative AI**    | Advanced    | RAG systems, LLM applications, retrieval pipelines                  |
+| **Computer Vision**  | Advanced    | Medical imaging and chest X-ray analysis                            |
+| **Data Science**     | Advanced    | NumPy, Pandas, visualization, feature analysis                      |
 
 ---
 
@@ -106,7 +108,7 @@ I focus on building practical, reliable systems that combine **strong engineerin
 
 Tri-modal deep learning framework combining **chest X-rays, ECG signals, and blood laboratory data** for thoracic disease diagnosis.
 
-| Stack | Scale | Performance | Impact |
+| Stack                                  | Scale                            | Performance             | Impact                                       |
 | -------------------------------------- | -------------------------------- | ----------------------- | -------------------------------------------- |
 | PyTorch • InceptionV3 • ResNet1D • MLP | 3 modalities • 5 disease classes | **0.916 AUC** for Edema | Improved diagnosis through multimodal fusion |
 
@@ -122,7 +124,7 @@ Tri-modal deep learning framework combining **chest X-rays, ECG signals, and blo
 
 Machine learning system for predicting mushroom edibility using the UCI Mushroom Dataset.
 
-| Stack | Scale | Performance | Impact |
+| Stack                                                | Scale                       | Performance               | Impact                              |
 | ---------------------------------------------------- | --------------------------- | ------------------------- | ----------------------------------- |
 | NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn | 8,124 samples • 22 features | **92%+ average accuracy** | Identified key edibility predictors |
 
@@ -137,8 +139,8 @@ Machine learning system for predicting mushroom edibility using the UCI Mushroom
 
 Comparative NLP research evaluating different word representation techniques for text classification.
 
-| Stack | Scale | Performance | Impact |
-| -------------------------------------------- | ------------------------------ | ------------------ | -------------------------------------- |
+| Stack                                        | Scale                          | Performance        | Impact                                      |
+| -------------------------------------------- | ------------------------------ | ------------------ | ------------------------------------------- |
 | Python • BiLSTM • Skip-gram • GloVe • TF-IDF | ~340K QA pairs • 10 categories | **0.725 accuracy** | Compared classical & neural representations |
 
 * Compared BoW, TF-IDF, GloVe, and Skip-gram.
@@ -152,8 +154,8 @@ Comparative NLP research evaluating different word representation techniques for
 
 Full-stack pet adoption and management platform with real-time communication.
 
-| Stack | Scale | Performance | Security |
-| --------------------------------------- | ----------------------- | ------------------------ | ---------- |
+| Stack                                   | Scale                   | Performance         | Security   |
+| --------------------------------------- | ----------------------- | ------------------- | ---------- |
 | Node.js • Express • MongoDB • Socket.IO | 10+ features • 15+ APIs | WebSocket messaging | JWT • RBAC |
 
 * Pet listings, adoption requests, lost reports, and health tracking.
@@ -167,8 +169,8 @@ Full-stack pet adoption and management platform with real-time communication.
 
 Community-powered platform for discovering venues and events in Dhaka.
 
-| Stack | Scale | Performance | Security |
-| ----------------------------------------- | ---------------------- | ------------------------ | ---------- |
+| Stack                                     | Scale                  | Performance              | Security       |
+| ----------------------------------------- | ---------------------- | ------------------------ | -------------- |
 | Next.js • Laravel • PostgreSQL • Tailwind | 8+ features • 12+ APIs | ~60% faster login/signup | Sanctum • RBAC |
 
 * Venue/event discovery, check-ins, wishlists, ratings, and reviews.
@@ -190,20 +192,6 @@ Community-powered platform for discovering venues and events in Dhaka.
 * Work across AI, data, backend, and software engineering.
 
 `Python` `Machine Learning` `Deep Learning` `RAG` `NLP` `FastAPI` `Django` `PostgreSQL`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| ------------------------------ | ------------------------------------------------------------------------- |
-| **🥈 BTRP Ranking** | Ranked **2nd out of 40** candidates in Betopia Tech Recruitment Program |
-| **🏆 Database Wizard** | BUCC Intrahacktive Hackathon |
-| **💻 MIST Neofetch Hackathon** | Programming Hero Hackathon — MIST Innovation Club |
-
-</div>
 
 
 ## Coding Profiles
@@ -238,13 +226,14 @@ Community-powered platform for discovering venues and events in Dhaka.
 
 </div>
 
+---
 
 <div align="center">
 
-### <span style="color:#8B5CF6;">“Build intelligently. Engineer reliably.”</span>
+### <span style="color:#EF4444;">“Build intelligently. Engineer reliably.”</span>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:312E81&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:B91C1C,100:450A0A&height=110&section=footer" width="100%"/>
 
 </div>
