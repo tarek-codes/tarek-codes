@@ -22,9 +22,6 @@
 <a href="mailto:tarekalambhuiyan@gmail.com">
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/tarek-codes">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -91,15 +88,14 @@ I focus on building practical, reliable systems that combine **strong engineerin
 
 ## AI / ML Expertise
 
-| Domain               | Proficiency | Details                                                             |
-| -------------------- | ----------- | ------------------------------------------------------------------- |
-| **Machine Learning** | Advanced    | End-to-end ML pipelines, preprocessing, EDA, training & evaluation  |
-| **Deep Learning**    | Advanced    | PyTorch, TensorFlow, Keras, CNNs & multimodal architectures         |
-| **NLP**              | Advanced    | NLP classification, embeddings, BiLSTM, Skip-gram & text processing |
-| **Generative AI**    | Advanced    | RAG systems, LLM applications, retrieval pipelines                  |
-| **Computer Vision**  | Advanced    | Medical imaging and chest X-ray analysis                            |
-| **Data Science**     | Advanced    | NumPy, Pandas, visualization, feature analysis                      |
-| **Model Evaluation** | Advanced    | Accuracy, F1, Recall, AUC, Grad-CAM, statistical validation         |
+| Domain | Proficiency | Details |
+| -------------------- | ----------- | ----------- |
+| **Machine Learning** | Advanced | End-to-end ML pipelines, preprocessing, EDA, training & evaluation |
+| **Deep Learning** | Advanced | PyTorch, TensorFlow, Keras, CNNs & multimodal architectures |
+| **NLP** | Advanced | NLP classification, embeddings, BiLSTM, Skip-gram & text processing |
+| **Generative AI** | Advanced | RAG systems, LLM applications, retrieval pipelines |
+| **Computer Vision** | Advanced | Medical imaging and chest X-ray analysis |
+| **Data Science** | Advanced | NumPy, Pandas, visualization, feature analysis |
 
 ---
 
@@ -110,7 +106,7 @@ I focus on building practical, reliable systems that combine **strong engineerin
 
 Tri-modal deep learning framework combining **chest X-rays, ECG signals, and blood laboratory data** for thoracic disease diagnosis.
 
-| Stack                                  | Scale                            | Performance             | Impact                                       |
+| Stack | Scale | Performance | Impact |
 | -------------------------------------- | -------------------------------- | ----------------------- | -------------------------------------------- |
 | PyTorch • InceptionV3 • ResNet1D • MLP | 3 modalities • 5 disease classes | **0.916 AUC** for Edema | Improved diagnosis through multimodal fusion |
 
@@ -126,7 +122,7 @@ Tri-modal deep learning framework combining **chest X-rays, ECG signals, and blo
 
 Machine learning system for predicting mushroom edibility using the UCI Mushroom Dataset.
 
-| Stack                                                | Scale                       | Performance               | Impact                              |
+| Stack | Scale | Performance | Impact |
 | ---------------------------------------------------- | --------------------------- | ------------------------- | ----------------------------------- |
 | NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn | 8,124 samples • 22 features | **92%+ average accuracy** | Identified key edibility predictors |
 
@@ -141,8 +137,8 @@ Machine learning system for predicting mushroom edibility using the UCI Mushroom
 
 Comparative NLP research evaluating different word representation techniques for text classification.
 
-| Stack                                        | Scale                          | Performance        | Impact                                      |
-| -------------------------------------------- | ------------------------------ | ------------------ | ------------------------------------------- |
+| Stack | Scale | Performance | Impact |
+| -------------------------------------------- | ------------------------------ | ------------------ | -------------------------------------- |
 | Python • BiLSTM • Skip-gram • GloVe • TF-IDF | ~340K QA pairs • 10 categories | **0.725 accuracy** | Compared classical & neural representations |
 
 * Compared BoW, TF-IDF, GloVe, and Skip-gram.
@@ -156,8 +152,8 @@ Comparative NLP research evaluating different word representation techniques for
 
 Full-stack pet adoption and management platform with real-time communication.
 
-| Stack                                   | Scale                   | Performance         | Security   |
-| --------------------------------------- | ----------------------- | ------------------- | ---------- |
+| Stack | Scale | Performance | Security |
+| --------------------------------------- | ----------------------- | ------------------------ | ---------- |
 | Node.js • Express • MongoDB • Socket.IO | 10+ features • 15+ APIs | WebSocket messaging | JWT • RBAC |
 
 * Pet listings, adoption requests, lost reports, and health tracking.
@@ -171,8 +167,8 @@ Full-stack pet adoption and management platform with real-time communication.
 
 Community-powered platform for discovering venues and events in Dhaka.
 
-| Stack                                     | Scale                  | Performance              | Security       |
-| ----------------------------------------- | ---------------------- | ------------------------ | -------------- |
+| Stack | Scale | Performance | Security |
+| ----------------------------------------- | ---------------------- | ------------------------ | ---------- |
 | Next.js • Laravel • PostgreSQL • Tailwind | 8+ features • 12+ APIs | ~60% faster login/signup | Sanctum • RBAC |
 
 * Venue/event discovery, check-ins, wishlists, ratings, and reviews.
@@ -201,33 +197,14 @@ Community-powered platform for discovering venues and events in Dhaka.
 
 <div align="center">
 
-| Recognition                    | Details                                                                 |
-| ------------------------------ | ----------------------------------------------------------------------- |
-| **🥈 BTRP Ranking**            | Ranked **2nd out of 40** candidates in Betopia Tech Recruitment Program |
-| **🏆 Database Wizard**         | BUCC Intrahacktive Hackathon                                            |
-| **💻 MIST Neofetch Hackathon** | Programming Hero Hackathon — MIST Innovation Club                       |
+| Recognition | Details |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| **🥈 BTRP Ranking** | Ranked **2nd out of 40** candidates in Betopia Tech Recruitment Program |
+| **🏆 Database Wizard** | BUCC Intrahacktive Hackathon |
+| **💻 MIST Neofetch Hackathon** | Programming Hero Hackathon — MIST Innovation Club |
 
 </div>
 
----
-
-## Certifications
-
-### DataCamp
-
-<img src="https://img.shields.io/badge/Deep%20Learning%20with%20PyTorch-DataCamp-03EF62?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/AI%20Fundamentals-DataCamp-03EF62?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Intermediate%20SQL-DataCamp-03EF62?style=for-the-badge&labelColor=111827"/>
-
-### BRAC University Computer Club
-
-<img src="https://img.shields.io/badge/BUCC%20Intrahacktive%20Hackathon-Database%20Wizard-6D28D9?style=for-the-badge&labelColor=111827"/>
-
-### MIST Innovation Club
-
-<img src="https://img.shields.io/badge/MIST%20Neofetch%20Hackathon-Programming%20Hero-4F46E5?style=for-the-badge&labelColor=111827"/>
-
----
 
 ## Coding Profiles
 
@@ -253,82 +230,14 @@ Community-powered platform for discovering venues and events in Dhaka.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarek-codes&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6D28D9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tarek-codes/tarek-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/tarek-codes/tarek-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - NLP
-  - Generative AI
-  - System Design
-
-Building:
-  - Production RAG Systems
-  - End-to-End ML Pipelines
-  - AI-Powered Applications
-  - Scalable Web Systems
-
-Exploring:
-  - Multimodal AI
-  - LLM Applications
-  - AI Engineering
-  - Backend Architecture
-
-Open To:
-  - ML Engineering
-  - Software Engineering
-  - Data Engineering
-  - AI/ML Research
-  - SQA
-  - Open Source
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:tarekalambhuiyan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-tarekalambhuiyan%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Tarek%20Alam%20Bhuiyan-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tarek-codes">
-<img src="https://img.shields.io/badge/GitHub-tarek--codes-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://tarek-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-tarek--dev-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
