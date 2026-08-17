@@ -41,6 +41,21 @@ Computer Science & Engineering graduate with hands-on experience in **Artifical 
 
 ---
 
+
+## Experience
+
+### Junior AI Engineer — Betopia Limited
+
+**February 2026 — Present · Dhaka, Bangladesh**
+
+* Developed **3+ production-ready RAG systems** covering ingestion, chunking, indexing, retrieval, and response generation.
+* Built **5+ end-to-end ML pipelines** covering preprocessing, EDA, training, evaluation, and deployment.
+* Work across AI, data, backend, and software engineering.
+
+`Python` `Machine Learning` `Deep Learning` `RAG` `NLP` `FastAPI` `Django` `PostgreSQL`
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -166,43 +181,9 @@ Community-powered platform for discovering venues and events in Dhaka.
 
 ---
 
-## Experience
-
-### Junior AI Engineer — Betopia Limited
-
-**February 2026 — Present · Dhaka, Bangladesh**
-
-* Developed **3+ production-ready RAG systems** covering ingestion, chunking, indexing, retrieval, and response generation.
-* Built **5+ end-to-end ML pipelines** covering preprocessing, EDA, training, evaluation, and deployment.
-* Work across AI, data, backend, and software engineering.
-
-`Python` `Machine Learning` `Deep Learning` `RAG` `NLP` `FastAPI` `Django` `PostgreSQL`
-
-
-## Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tarek-codes/tarek-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### <span style="color:#EF4444;">“Build intelligently. Engineer reliably.”</span>
+### <span style="color:#EF4444;">“You miss 100% of the shots you don't take.”</span>
 
 </div>
