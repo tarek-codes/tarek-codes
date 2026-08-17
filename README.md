@@ -198,18 +198,6 @@ Community-powered platform for discovering venues and events in Dhaka.
 <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
-</a>
-
 </div>
 
 ---
@@ -227,9 +215,5 @@ Community-powered platform for discovering venues and events in Dhaka.
 <div align="center">
 
 ### <span style="color:#EF4444;">“Build intelligently. Engineer reliably.”</span>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:B91C1C,100:450A0A&height=110&section=footer" width="100%"/>
 
 </div>
