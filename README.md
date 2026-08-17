@@ -35,9 +35,9 @@
 
 Computer Science & Engineering graduate with hands-on experience in **Artifical Intelligence & Software Engineering**. Currently working as a **Junior AI Engineer at Betopia Limited**, working on production-oriented AI solutions, RAG systems, ML pipelines, APIs, and scalable software applications. I focus on building practical, reliable systems that combine **strong engineering fundamentals with data-driven intelligence**.
 
-### Open To
+### Open To 
 
-`ML Engineering` `Software Engineering` `Data Engineering` `Data Analysis` `AI/ML Research` `SQA` `Open Source`
+`AI/MLL Engineer` `Software Engineer` `Data Engineering` `Data Analysis` `AI/ML Research` `SQA` `Open Source Contribution`
 
 ---
 
@@ -46,8 +46,6 @@ Computer Science & Engineering graduate with hands-on experience in **Artifical 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,java,html,css" />
-
-`SQL`
 
 ### Frontend & Backend
 
@@ -58,19 +56,12 @@ Computer Science & Engineering graduate with hands-on experience in **Artifical 
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-
-<br/>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" alt="Keras"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/llamaindex/B91C1C" width="45" height="45" alt="LlamaIndex"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45" height="45" alt="Seaborn"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" alt="Keras"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
 
 </div>
 
