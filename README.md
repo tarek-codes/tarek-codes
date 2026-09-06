@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:B91C1C,100:EF4444&height=180&section=header&text=TAREK%20ALAM%20BHUIYAN&fontSize=36&fontColor=FFFFFF&font=Nunito&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Engineering%20%7C%20Data%20Science&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=Junior+AI+Engineer+%40+Betopia+Limited;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Software+Engineering+%7C+Full-Stack+Development;Building+Scalable+%26+Data-Driven+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=Junior+AI+Engineer+|+Researcher;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Software+Engineering+%7C+Full-Stack+Development;Building+Scalable+%26+Data-Driven+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
