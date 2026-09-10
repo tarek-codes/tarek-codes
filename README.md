@@ -33,7 +33,7 @@
 
 ## About
 
-Computer Science & Engineering graduate with hands-on experience in **Artifical Intelligence & Software Engineering**. Currently working as a **Junior AI Engineer at Betopia Limited**, working on production-oriented AI solutions, RAG systems, ML pipelines, APIs, and scalable software applications. I focus on building practical, reliable systems that combine **strong engineering fundamentals with data-driven intelligence**.
+Computer Science & Engineering graduate with hands-on experience in **Artifical Intelligence & Software Engineering**. Actively working on production-oriented AI solutions, RAG systems, ML pipelines, APIs, and scalable software applications. I focus on building practical, reliable systems that combine **strong engineering fundamentals with data-driven intelligence**.
 
 ### Open To 
 
