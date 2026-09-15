@@ -37,7 +37,7 @@ Computer Science & Engineering graduate with hands-on experience in **Artifical 
 
 ### Open To 
 
-`AI/MLL Engineer` `Software Engineer` `Data Engineering` `Data Analysis` `AI/ML Research` `SQA` `Open Source Contribution`
+`AI/ML Engineer` `Software Engineer` `Data Engineering` `Data Analysis` `AI/ML Research` `SQA` `Open Source Contribution`
 
 ---
 
