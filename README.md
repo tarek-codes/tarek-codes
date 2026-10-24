@@ -44,9 +44,16 @@ Computer Science & Engineering graduate with hands-on experience in **Artifical 
 
 ## Experience
 
+### Software Engineering Intern — LofiStack
+
+**October 2026 — Present · Remote · Chattogram, Bangladesh**
+
+* Developed Custom full-stack web, mobile, and AI solutions catered to real-world products and client requirements.
+* Contributed across the SDLC, from requirement analysis and research to implementation and deployment.
+
 ### Junior AI Engineer — Betopia Limited
 
-**February 2026 — Present · Dhaka, Bangladesh**
+**February 2026 — August 2026 · Dhaka, Bangladesh**
 
 * Developed **3+ production-ready RAG systems** covering ingestion, chunking, indexing, retrieval, and response generation.
 * Built **5+ end-to-end ML pipelines** covering preprocessing, EDA, training, evaluation, and deployment.
