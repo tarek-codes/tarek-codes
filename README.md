@@ -46,7 +46,7 @@ Computer Science & Engineering graduate with hands-on experience in **Artifical 
 
 ### Software Engineering Intern — LofiStack
 
-**October 2026 — Present · Remote · Chattogram, Bangladesh**
+**November 2026 — Present · Remote · Chattogram, Bangladesh**
 
 * Developed Custom full-stack web, mobile, and AI solutions catered to real-world products and client requirements.
 * Contributed across the SDLC, from requirement analysis and research to implementation and deployment.
